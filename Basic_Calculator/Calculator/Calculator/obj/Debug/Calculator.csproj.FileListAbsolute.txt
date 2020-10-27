@@ -1,0 +1,10 @@
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Honours\Work\2019\Honours\GitHubRepo\C#_Skills\Basic_Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
